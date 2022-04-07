@@ -4,8 +4,8 @@ EE'23 || I.E.T. Lucknow || || Competitive Programmer || Python Developer
 - 👋 Hi, I’m @sarthak-2019
 - 💻 I am a Competitive Programmer good at Data Structures and Algorithms
 - 👀 I’m interested in Machine Learning and Full Stack Development
-- 🌱 I’m currently learning ReactJs,Node-Express, Django-Rest framework and Deep Learning Libraries 
-- 💞️ I’m looking to collaborate on Python and ML projects.
+- 🌱 I have Expertise in HTML,CSS,React,NodeJs,AWS.
+- 💞️ I’m looking to collaborate on Full Stack Projects.
 - 📫 How to reach me : Contact me through Gmail (sarthak2019fractal@gmail.com).
 
 <!---
