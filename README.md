@@ -1,5 +1,5 @@
 Sarthak Shukla
-EE'23 || I.E.T. Lucknow || || Competitive Programmer || Python Developer
+Competitive Programmer || Full Stack Developer [React,Next,Grafana,NodeJs,AWS]
 
 - 👋 Hi, I’m @sarthak-2019
 - 💻 I am a Competitive Programmer good at Data Structures and Algorithms
