@@ -1,7 +1,7 @@
 Sarthak Shukla
 Competitive Programmer || Full Stack Developer [React,Next,Grafana,NodeJs,AWS]
 
-- 👋 Hi, I’m @sarthak-2019
+- 👋 Hi, I’m Sarthak
 - 💻 I am a Competitive Programmer good at Data Structures and Algorithms
 - 👀 I’m interested in Machine Learning and Full Stack Development
 - 🌱 I have Expertise in HTML,CSS,React,NodeJs,AWS.
