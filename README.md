@@ -12,7 +12,3 @@ Competitive Programmer || Full Stack Developer [React,Next,Grafana,NodeJs,AWS]
 sarthak-2019/sarthak-2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align=center>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak-2019&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/sarthak-2019)
-</div>
